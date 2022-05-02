@@ -1,9 +1,10 @@
 import styled, { css } from 'styled-components';
 
 export const Wrapper = styled.div`
-  ${(props) =>
+  ${({ theme, fontSize, transform }) =>
     css`
-      background: ${props.background};
-      font-size: ${props.fontSize};
+      background: ${theme.secondaryBg};
+      font-size: ${fontSize};
+      transform: ${transform};
     `}
 `;
