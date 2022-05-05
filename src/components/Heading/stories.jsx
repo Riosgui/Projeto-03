@@ -5,11 +5,9 @@ export default {
   component: Heading,
   args: {
     children: 'Algo',
-    light: false,
   },
   argTypes: {
     children: { type: 'string' },
-    light: { type: 'boolean' },
   },
   parameters: {
     backgrounds: {
