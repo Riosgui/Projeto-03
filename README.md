@@ -8,3 +8,9 @@ Este é um projeto de Landing Page que estou criando do curso da Udemy utilizand
   - Adição do componente SectionContainer, criação do CSS e inclusão ao StoryBook;
   - Adição do componente TextComponent, criação do CSS e inclusão ao StoryBook;
   - Adição do componente Menu, porém ainda não está da forma que deveria;
+
+- V 1.5:
+  - Organização do componente Menu, sendo a criação do CSS e inclusão ao StoryBook;
+  - Adição do componente GridContent, criação do CSS e inclusão ao StoryBook;
+  - Adição do componente GridText, criação do CSS e inclusão ao StoryBook;
+  - Adição do componente GridTwoColumns, criação do CSS e inclusão ao StoryBook;
